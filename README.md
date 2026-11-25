@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Alfonso González Schlack 👋
+# Hola, soy Alfonso González Schlack
 
 ### Full Stack Developer | Cloud Developer
 
